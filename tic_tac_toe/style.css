@@ -1,0 +1,21 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+table#game td{
+    background-color: beige;
+    height: 200px;
+    width: 200px;
+    border: solid saddlebrown 5px;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 110pt;
+    color: lightslategray
+}
+
+button#restart {
+    padding: 15px;
+    background-color: lightslategray;
+    font-size: 10pt;
+    color: white;
+    border-radius: 13px;
+}
